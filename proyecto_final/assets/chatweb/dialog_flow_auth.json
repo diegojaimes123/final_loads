@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stayawaybot-goum",
+  "private_key_id": "4fd85655731fd4d9d1314bd5c4ab58c8d62dc5d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC42BVvhIYmXgi2\nE4THH0imSUURB2Zto/L6AzHlmYA0jzcnqPQJ8l/hjj9zw5bsNb5JVg0272V4+z6B\n487CB6VWsk4ODK9SZrNl8u8wJqaHMJ/tcm3rSZC5/1ABz/RqWpHggdu2t2szselN\nBFpdSzkF4VUMT9GILECohE6WA4oDkD/+vnzTYnmMK4L5F5ETs7AZ9Czh8yBXOVba\nythfe7U/JZhtJjmaWn1PhqXbjQtgEJHAguwy9quj0SDNcQNal65PsUR7UZJqpc9k\n12V9+CXZE7agg6HQgeshUUou6BMevglLwx4Sc4Zl4dz4syE5BmdOdGT70wWs0wAX\n3HN6fHM/AgMBAAECggEAFf0dPlkOrPrBC4kyjDjO/M+43R07FJjicIENIFSMg/Qe\nKg7MX8XgR7s9wMjdfSJUOBzPUUp/kORGcSTcoDKmUF7BWqTXUwnvlmr6BDQyLuEx\nwok7Go3I9ISy4PxQMDoE93xLMFG3ztGqa2SKAWYk6uuoITZPj+Tqbiw1vbJpv8w8\njjzTdKYjaZprHMZvyuu+K9aJUqwL4eOjJcxXi0xXpYfUaCRw9ybXJjK6zHaBErV4\nLXCfG0mM93EoJ/I20ncUis0MaL7MYgDOINTqvg9InUDXKPfTGZOWFm/PwGL6Lpem\nHxo/FF4X1GsgtGgP9eZ3AKFTJGDFDSfbI/CQoZHlSQKBgQDexekDrZkA2n1aNiwA\n1nndKipO7y1Cdj/5L55yxA1uZEks2bnoVq81RNli4SOFkF723RjVrVTa+HORdeKp\n09hsup/bYsrOjD1UqzZir8EE1dYFn27mNjLJ33HsD4W6Cm7zSi6X9UdY+dPlFfsU\nXC1C2440WazpX6TCW/3UCHZViQKBgQDUafCDalSWXtbIMunWWDjO+MM2V91l2h21\nmhJDnHPSkAhUkbnfwure4vQzKTdkEfOF2p2FA80/6iwmA9wU6IV8Pk+Dn6dDguh4\n64oHQXMBoAVj7pP6Y8LlRmKqD9FLl5WffY3Gg4pmtIr5L+BVkHNigckLQjVjK8Af\n6fiT7+yYhwKBgDHTThSWhTwdoh/FMf5V+hevUJsq/5J35EMVlXjRxLdGEt/HKr9+\nc92UMpLdDBbZfYP1W5KfG/WF0ENefH3DdgqLiymEZRvhXe5MBPP5n1A3i5DiYel3\ngdCI+2/y4NQFdV9Q3i76mySZa/0291tMaosjlCC9VeE0lSMrdBAyfFURAoGAZU4B\nPyu/G9gvZ1ug2nFI5q0NrSVKmgDkmm/YthYvxwSadHrrwyQbECH9hUjq+fb1xaj1\n5zJg+VKdq6O7mt0qjI7LLWM/Sptsc/8h3UQBrYy8BWULfieGFAL1m1Xf48VvvpkK\nvNqPb1w7y4xh2W0DGr/7OjthauK6xn236BZNKJECgYBKEI/fjWLM8F6TC4P9w0/a\n3E2ZeIGGbTMHXnogAul/ftVIDhpmO8q38Cz84/6J22bC/ancHJRSX+WdkvC/E6ko\n1raHpfFYFb2OIWWybjeS9+YUvXwXTnKSCaZQarz3Zp8P7DaGEaP49iuqAuuViZJA\nHDZEX/d0UwtmJeuir5e63Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stayawaybot@stayawaybot-goum.iam.gserviceaccount.com",
+  "client_id": "109446645185586900265",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stayawaybot%40stayawaybot-goum.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
